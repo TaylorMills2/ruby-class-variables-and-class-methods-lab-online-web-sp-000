@@ -6,4 +6,4 @@ lass Song
   end 
   
   
-  
+   @@genres = []
